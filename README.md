@@ -1,0 +1,2 @@
+# manip
+codigo do manip
